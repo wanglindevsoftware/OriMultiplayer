@@ -1,0 +1,8 @@
+{
+  "name": "Ori",
+  "address": "127.0.0.1",
+  "port": 31415,
+  "sync_world": true,
+  "sync_progress": true,
+  "disable_audio": false
+}
