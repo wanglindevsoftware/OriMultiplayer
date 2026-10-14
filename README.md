@@ -12,8 +12,8 @@ This repository contains compiled mod binaries, launch scripts, configuration ex
 ## Requirements
 
 - Windows x64.
-- Your own installation of the April 2020 version of Ori and the Will of the Wisps. The launcher expects `GameAssembly.dll` to be exactly **73,937,920 bytes**.
-- Microsoft Visual C++ Redistributable x64. Runtime dependencies include `MSVCP140.dll`, `MSVCP140_ATOMIC_WAIT.dll`, `VCRUNTIME140.dll`, and `VCRUNTIME140_1.dll`.
+- Your own installation of the **April 2020 version** of [Ori and the Will of the Wisps](https://store.steampowered.com/app/1057090/Ori_and_the_Will_of_the_Wisps/). The Steam link leads to the game store page and does not guarantee this older build. The launcher expects `GameAssembly.dll` to be exactly **73,937,920 bytes**.
+- Install [Microsoft Visual C++ Redistributable x64 — official Microsoft installer](https://aka.ms/vc14/vc_redist.x64.exe). This package installs the required runtime libraries; you do not need to download individual DLL files. See [Microsoft documentation](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) for details.
 - The same mod package and a compatible game version on both computers.
 
 ## Installation
